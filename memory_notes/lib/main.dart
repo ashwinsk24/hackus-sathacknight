@@ -1,5 +1,7 @@
-import 'package:firewebauth/auth_service.dart';
 import 'package:flutter/material.dart';
+import 'package:memory_notes/auth_services.dart';
+import 'package:memory_notes/home_screen.dart';
+import 'package:memory_notes/login_screen.dart';
 
 void main() => runApp(MyApp());
 
@@ -8,8 +10,6 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      home: AuthService().handleAuth()
-    );
+        debugShowCheckedModeBanner: false, home: AuthService().handleAuth());
   }
 }
