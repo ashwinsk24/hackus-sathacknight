@@ -1,12 +1,12 @@
 ![Github](https://user-images.githubusercontent.com/64391274/206931805-33d163dc-b609-4d14-8302-e863cd0c40ee.png)
 
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Memory Notes
+A web app filled with your daily moment snaps. 
 ## Team members
-1. Name [Embed personal github URL]
+1. Ashwin Sivasankaran [Embed personal github URL]
 2. Name [Embed perosnal github URL]
-## Team Id
-Team id here
+## Team ID
+l1dEtTkJpJMsRv6h7v5J
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
