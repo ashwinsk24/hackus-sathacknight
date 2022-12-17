@@ -66,7 +66,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '291347469469',
     projectId: 'sat-hack',
     storageBucket: 'sat-hack.appspot.com',
-    iosClientId: '291347469469-37nvtt3q9c2d51iap1vpc4kqbiqhhags.apps.googleusercontent.com',
+    iosClientId:
+        '291347469469-37nvtt3q9c2d51iap1vpc4kqbiqhhags.apps.googleusercontent.com',
     iosBundleId: 'com.example.memoryNotes',
   );
 
@@ -76,7 +77,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '291347469469',
     projectId: 'sat-hack',
     storageBucket: 'sat-hack.appspot.com',
-    iosClientId: '291347469469-37nvtt3q9c2d51iap1vpc4kqbiqhhags.apps.googleusercontent.com',
+    iosClientId:
+        '291347469469-37nvtt3q9c2d51iap1vpc4kqbiqhhags.apps.googleusercontent.com',
     iosBundleId: 'com.example.memoryNotes',
   );
 }
