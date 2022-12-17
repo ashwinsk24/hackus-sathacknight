@@ -4,7 +4,7 @@
 A flutter web app filled with your daily moments. 
 ## Team members
 1. Ashwin Sivasankaran [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+2. Jyothish T R [Embed perosnal github URL]
 ## Team ID
 l1dEtTkJpJMsRv6h7v5J
 ## Link to product walkthrough
