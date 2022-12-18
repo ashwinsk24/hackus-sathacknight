@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550055935123",
+    "project_id": "mynotes24-21081",
+    "storage_bucket": "mynotes24-21081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550055935123:android:16db95dca0be75a6396166",
+        "android_client_info": {
+          "package_name": "com.hackus.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550055935123-td7vm6gpl38mv9ac4h5noe3va4afge5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNxhXTfcFrd5tvxjWYkSh3GBeR1NyvAxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550055935123-td7vm6gpl38mv9ac4h5noe3va4afge5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
